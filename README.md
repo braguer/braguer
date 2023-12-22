@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**braguer/braguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi 👋
+```json
+{
+  "aboutMe": {
+    "name": "Roschan",
+    "age": 21,
+    "nationality": "",
+    "location": "",
+    "status": "Student",
+    "skills": "HTML, CSS, JS, Python",
+    "more": "😊 Feel free to ask anything, and I'll be happy to help!"
+  },
+  "contact": {
+    "twitter": "https://twitter.com/roschan_ii"
+  }
+}
+```
